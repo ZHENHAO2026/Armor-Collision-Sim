@@ -1,3 +1,8 @@
+
+
+![Blender](https://img.shields.io/badge/Blender-3.6%2B-orange)
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 # Armor Collision Sim (装甲碰撞分析模拟系统)
 
 基于 Blender Python API 开发的极高拟真装甲穿透、弹头与弹孔绝对同步的物理模拟插件。
